@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Abimbola
 - 👀 I’m interested in Python, SQL, AI NLP
-- 🌱 I’m currently learning Data Science
+- 🌱 I’m am a Data Scietist
 - 💞️ I’m looking to collaborate on projects related to Data Science, AI.
 - 📫 cod7us@gmail.com
 - 😄 Pronouns: He/Him
